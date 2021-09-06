@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>La quiniela Cantv.net: Foro</title>
+<link rel="shortcut icon" href="favicon.ico" >
+</head>
+
+<frameset framespacing="0" border="0" rows="100,*,56" frameborder="0">
+  <frame name="top" scrolling="no" noresize src="/quiniela/headerf.asp" target="_top" marginwidth="0" marginheight="0">
+  <frameset framespacing="0" border="0" cols="120,*" frameborder="0">
+    <frame name="contents" src="/quiniela/leftbarf.asp" marginwidth="0" marginheight="0">
+    <frame name="main" <!-- Bravenet Embedded Service Code --><script src="http://apps.bravenet.com/go.js?service=forum;id=1;usernum=734650927" type="text/javascript" charset="utf-8"></script> marginwidth="0" marginheight="0">
+  </frameset>
+  <frame name="bottom" scrolling="no" noresize src="/quiniela/images/footer.bmp" target="_top" marginwidth="0" marginheight="0">
+  <noframes>
+  <body>
+
+  <p>Esta página utiliza frames, pero su navegador no los soporta.</p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>
+
