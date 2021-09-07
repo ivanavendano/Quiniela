@@ -73,7 +73,7 @@ strHeader = "headerEuro2021.jpg"
   <b>Quiniela "<%=strBet%>": Complete los resultados de todos los juegos listados</b><br><br>
   <font size="1">
     <b>Reglas por las que se regirá la quiniela <%=strBet%>:</b><br><br>
-    <b>Se juega una sola QUINIELA, se debe predecir los resultados tanto de la Copa América como la Eurocopas. Es decir, 2 Torneos corresponden a una sola quiniela<%=strBet%>:</b><br><br>
+    <b>Se juega una sola QUINIELA, se debe predecir los resultados tanto de la Copa América como la Eurocopa. Es decir, 2 Torneos corresponden a una sola quiniela<%=strBet%>:</b><br><br>
       <% If cInt(strWinPts) > 1 Then%>
       1. Se asignarán <%=strWinPts%> puntos al acertar el ganador de un juego (o empate)<br>
     <%Else%>
