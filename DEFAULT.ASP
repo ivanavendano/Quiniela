@@ -1,3 +1,3 @@
 <%
-  response.Redirect("/quiniela/login.asp")
+   response.Redirect("/quiniela/login.asp")
 %>
